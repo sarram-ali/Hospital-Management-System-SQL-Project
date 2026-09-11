@@ -76,7 +76,7 @@ Hospital-Management-System-SQL/
 ├── report/
 │   └── Hospital_Management_System_Report.pdf
 │
-└── relationship_diagram/
+├── relationship_diagram/
 │   └── hospital_relationship_diagram.png
 │   
 └── README.md
